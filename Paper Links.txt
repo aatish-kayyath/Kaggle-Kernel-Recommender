@@ -1,0 +1,17 @@
+Devika Links
+
+New local distance function and similarity measure for kNN algorithm - https://bit.ly/2K0qhee
+Feature Selection for Unsupervised Learning - https://bit.ly/2DkVisa
+Feature Selection for Clustering : A Filter Solution - https://bit.ly/2T6sf0J
+
+Aravind Links
+
+Application of k-Nearest Neighbour Classification in Medical Data Mining - https://bit.ly/2FiDbWf
+Classification of Heart Disease Using K- Nearest Neighbor - https://bit.ly/2zRrDTJ
+Robot Vision: Calibration of Wide-Angle Lens using K-Nearest Neighbour-  https://bit.ly/2DANmnq
+
+Abi Links
+
+An affinity-based new local distance function and similarity measure for kNN algorithm - https://bit.ly/2RTJrVX
+Feature Selection for Clustering – A Filter Solution. - https://bit.ly/2T6sf0J
+Feature Selection for Unsupervised Learning - https://bit.ly/2DkVisa
